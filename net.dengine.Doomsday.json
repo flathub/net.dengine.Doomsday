@@ -37,7 +37,8 @@
             "config-opts": [
                 "-DCMAKE_BUILD_TYPE=RelWithDebInfo",
                 "-DDE_PREFIX=/app",
-                "-DDENG_ENABLE_SDK=NO"
+                "-DDENG_ENABLE_SDK=NO",
+                "-DDENG_BUILD=3272"
             ],
             "sources": [
                 {
@@ -48,5 +49,5 @@
                 }
             ]
         }
-    ]    
+    ]
 }
