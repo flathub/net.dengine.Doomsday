@@ -44,8 +44,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/skyjake/Doomsday-Engine",
-                    "tag": "v2.2.1",
-                    "commit": "eaa297d1540a50d3a20e134f8fe15df758f475ca"
+                    "tag": "v2.2.1-1",
+                    "commit": "c8cd9fa3fadb739089d042e5865bc5031a6fbf32"
                 }
             ]
         }
