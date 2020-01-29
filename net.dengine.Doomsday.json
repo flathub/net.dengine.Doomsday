@@ -38,14 +38,14 @@
                 "-DCMAKE_BUILD_TYPE=RelWithDebInfo",
                 "-DDE_PREFIX=/app",
                 "-DDENG_ENABLE_SDK=NO",
-                "-DDENG_BUILD=3299"
+                "-DDENG_BUILD=3313"
             ],
             "sources": [
                 {
                     "type": "git",
                     "url": "https://github.com/skyjake/Doomsday-Engine",
-                    "tag": "v2.2.1-1",
-                    "commit": "c8cd9fa3fadb739089d042e5865bc5031a6fbf32"
+                    "tag": "build3313",
+                    "commit": "648c6bb2e81cfccc8c63c7d3c079f59512963030"
                 }
             ]
         }
