@@ -7,6 +7,7 @@
     "finish-args": [
         "--socket=x11",
         "--socket=pulseaudio",
+        "--share=ipc",
         "--share=network",
         "--device=dri",
         "--filesystem=home"
@@ -38,14 +39,14 @@
                 "-DCMAKE_BUILD_TYPE=RelWithDebInfo",
                 "-DDE_PREFIX=/app",
                 "-DDENG_ENABLE_SDK=NO",
-                "-DDENG_BUILD=3650"
+                "-DDENG_BUILD=3685"
             ],
             "sources": [
                 {
                     "type": "git",
                     "url": "https://github.com/skyjake/Doomsday-Engine",
-                    "tag": "v2.3.0",
-                    "commit": "e7383f81b799fde6f467e238061daec15a1987cb"
+                    "tag": "v2.3.1",
+                    "commit": "880737669480b02c43df385ff417e8ebb77d97c7"
                 }
             ]
         }
