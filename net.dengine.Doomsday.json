@@ -1,7 +1,7 @@
 {
     "app-id": "net.dengine.Doomsday",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15-22.08",
+    "runtime-version": "5.15-23.08",
     "sdk": "org.kde.Sdk",
     "command": "doomsday",
     "finish-args": [
@@ -26,8 +26,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/FluidSynth/fluidsynth/archive/v2.0.9.tar.gz",
-                    "sha256": "bfe82ccf1bf00ff5cfc18e2d9d1e5d95c6bd169a76a2dec14898d1ee0e0fac8a"
+                    "url": "https://github.com/FluidSynth/fluidsynth/archive/v2.3.5.tar.gz",
+                    "sha256": "f89e8e983ecfb4a5b4f5d8c2b9157ed18d15ed2e36246fa782f18abaea550e0d"
                 }
             ]
         },
