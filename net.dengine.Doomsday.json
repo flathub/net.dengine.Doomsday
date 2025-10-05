@@ -10,6 +10,7 @@
         "--share=ipc",
         "--share=network",
         "--device=dri",
+        "--device=all",
         "--filesystem=home"
     ],
     "modules": [
